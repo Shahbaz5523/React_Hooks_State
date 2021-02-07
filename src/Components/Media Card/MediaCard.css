@@ -1,0 +1,13 @@
+.MediaCard{
+    margin: 10px;
+    padding: 30px;
+    color: white;
+    background-color: #000;
+}
+.MediaCard h1{
+    color: whitesmoke;
+    text-align: center;
+}
+.MediaCard img{
+    width: 100%;
+}

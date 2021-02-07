@@ -1,0 +1,9 @@
+.Intro{
+    margin: 10px;
+    padding: 30px;
+    background-color: antiquewhite;
+}
+.Intro h1:first-child{
+    color: brown;
+    text-align: center;
+}
